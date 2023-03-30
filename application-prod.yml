@@ -7,4 +7,4 @@ eureka:
   instance:
     hostname: localhost
 welcome:
-  message: welcome to production-git environment message - youtube
+  message: welcome to production-git environment message - latest

@@ -8,3 +8,4 @@ eureka:
     hostname: localhost
 welcome:
   message: welcome to production-git environment message - final
+  vmessage: ${sftppwd}

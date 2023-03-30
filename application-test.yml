@@ -7,4 +7,4 @@ eureka:
   instance:
     hostname: localhost
 welcome:
-  message: welcome to dev environment message
+  message: welcome to test environment message
